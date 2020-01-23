@@ -1,4 +1,4 @@
-## My Cheat Sheets 
+## Cheat Sheets 
 
 ###  [underscore (Javascript Library)](https://onecompiler.com/cheatsheets/underscore)
 
